@@ -21,7 +21,7 @@ vector<int> twoSum(vector<int> &nums, int target)
     return ans;
 }
 
-// EFFECTIENT approach
+// EFFICIENT approach
 
 vector<int> twoSum(vector<int> &nums, int target)
 {
